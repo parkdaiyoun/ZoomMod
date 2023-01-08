@@ -1,0 +1,9 @@
+{
+	"name": "ZoomMod",
+	"description": "A muck mod made to share items with other players.",
+	"version_number": "1.0.0",
+	"dependencies" : [
+		"EnlargeMod-1.0.0"
+	],
+	"website_url": "https://github.com/iiVeil/ShareEm"
+}

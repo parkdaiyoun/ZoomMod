@@ -1,0 +1,2 @@
+# ZoomMod
+To make this mod work, First, go to C:\Program Files (x86)\Steam\steamapps\common\Muck\Muck_Data\Managed and delete the original Assembly-CSharp.dll file, and put the new Assembly-CSharp.dll file that is in the mod folder.(Also this mod zooms the camera if you press C)
